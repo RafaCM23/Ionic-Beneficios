@@ -1,0 +1,7 @@
+{
+  "name": "Ionic-Beneficios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
